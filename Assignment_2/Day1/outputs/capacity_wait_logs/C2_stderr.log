@@ -1,0 +1,22 @@
+2026-06-19T15:29:26,651  WARN ControlerConfigGroup:439 setting overwriting behavior to overwriteExistingFiles
+2026-06-19T15:29:26,654  WARN ControlerConfigGroup:440 this is not recommended, as it might result in a directory containing output from several model runs
+2026-06-19T15:29:26,656  WARN ControlerConfigGroup:441 prefer the options deleteDirectoryIfExists or failIfDirectoryExists
+2026-06-19T15:29:26,659  WARN DrtConfigGroup:248 qsim.endTime should be specified and qsim.simEndtimeInterpretation should be 'onlyUseEndtime' if postponed request rejection is allowed. Otherwise, rejected passengers (who are stuck endlessly waiting for a DRT vehicle) will prevent QSim from stopping. Keep also in mind that not setting an end time may result in agents attempting to travel without vehicles being available.
+2026-06-19T15:29:26,663  WARN DrtConfigGroup:268 Consider increasing global.numberOfThreads to at least the value of drt.numberOfThreads in order to speed up the DRT route update during the replanning phase.
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::objectFieldOffset has been called by com.google.common.util.concurrent.AbstractFuture$UnsafeAtomicHelper (file:/D:/Study/TUB/So2026/ITS/GroupAssignment/ITS-Homework2/Assignment_2/Task3-Cottbus/drt-GUI-new.jar)
+WARNING: Please consider reporting this to the maintainers of class com.google.common.util.concurrent.AbstractFuture$UnsafeAtomicHelper
+WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
+2026-06-19T15:29:29,874  WARN ControlerConfigGroup:439 setting overwriting behavior to overwriteExistingFiles
+2026-06-19T15:29:29,875  WARN ControlerConfigGroup:440 this is not recommended, as it might result in a directory containing output from several model runs
+2026-06-19T15:29:29,875  WARN ControlerConfigGroup:441 prefer the options deleteDirectoryIfExists or failIfDirectoryExists
+2026-06-19T15:29:29,875  WARN DrtConfigGroup:248 qsim.endTime should be specified and qsim.simEndtimeInterpretation should be 'onlyUseEndtime' if postponed request rejection is allowed. Otherwise, rejected passengers (who are stuck endlessly waiting for a DRT vehicle) will prevent QSim from stopping. Keep also in mind that not setting an end time may result in agents attempting to travel without vehicles being available.
+2026-06-19T15:29:29,876  WARN DrtConfigGroup:268 Consider increasing global.numberOfThreads to at least the value of drt.numberOfThreads in order to speed up the DRT route update during the replanning phase.
+2026-06-19T15:29:29,921  WARN PrepareForSimImpl:229 'usePersonIdForMissingVehicleId' is deprecated. It will be removed soon.
+2026-06-19T15:29:30,067  WARN PreProcessEuclidean:60 There are links with stored length smaller than their Euclidean distance in this network. Thus, A* cannot guarantee to calculate the least-cost paths between two nodes.
+2026-06-19T15:29:30,515  WARN RandomizingTimeDistanceTravelDisutilityFactory:113 There will be no routing randomness. The randomization of the travel disutility requires the monetary distance rate to be different than zero. Continuing anyway.
+2026-06-19T15:29:30,517  WARN RandomizingTimeDistanceTravelDisutilityFactory:118 There will be no routing randomness. The randomization of the travel disutility requires the travel time cost rate to be different than zero. Continuing anyway.
+2026-06-19T15:29:30,542  WARN PreProcessEuclidean:60 There are links with stored length smaller than their Euclidean distance in this network. Thus, A* cannot guarantee to calculate the least-cost paths between two nodes.
+2026-06-19T15:29:35,859  WARN EditTrips:121 no TransitStopAgentTracker found in qsim. Replanning of pt/transit legs will not work properly and will likely fail.
+2026-06-19T15:30:19,544  WARN MGC:179 Assuming that coordinates are in longitude first notation, i.e. (longitude, latitude).
+2026-06-19T15:30:20,076  WARN DrtZonalWaitTimesAnalyzer:169 Coordinate reference system "Atlantis" is unknown. Please set a crs in config global. Will try to create drt_waitStats_drt_zonal.shp anyway.

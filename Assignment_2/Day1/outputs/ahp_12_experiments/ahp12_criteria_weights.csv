@@ -1,0 +1,7 @@
+"criteria","weight"
+"avg_wait",0.2
+"p95_wait",0.24
+"total_travel_time",0.16
+"reliability",0.24
+"idle_vehicle_share",0.08
+"environmental_efficiency",0.08

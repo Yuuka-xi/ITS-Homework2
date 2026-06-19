@@ -1,0 +1,12 @@
+pattern	0+	5+	10+	15+	20+	25+	30+	35+	40+	45+	50+	55+	60+
+DrtBusStop---DrtBusStop	13796	2438	126	10	0	0	0	0	0	0	0	0	0
+DrtStay---DrtBusStop	1039	107	2	1	0	0	0	0	0	0	0	0	0
+drt interaction---drt interaction	123	454	776	1505	2679	2861	1162	356	75	7	2	0	0
+drt interaction---home	4068	413	68	51	13	0	10	2	15	11	0	0	1
+drt interaction---work	4605	587	51	37	13	5	10	4	15	21	0	0	0
+home---drt interaction	4068	413	68	51	13	0	10	2	15	11	0	0	1
+home---work	4	2	0	0	0	0	1	0	0	0	0	0	0
+work---drt interaction	4605	587	51	37	13	5	10	4	15	21	0	0	0
+work---home	4	2	0	0	0	0	1	0	0	0	0	0	0
+
+average leg duration: 438.17070245934406 seconds = 00:07:18
