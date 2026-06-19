@@ -1,0 +1,8 @@
+"matrix_name","consistency_ratio"
+"CWPC_criteria",-1.43254583822601e-16
+"avg_wait",0.0764013124684577
+"p95_wait",0.0304392259395911
+"total_travel",0.0171511694373156
+"rejections",0.0754364123310525
+"idle_share",0.0899088220995096
+"dp_dt",0.042181715385708
