@@ -1,0 +1,2 @@
+ITERATION	avg. Average Leg distance	avg. Average Trip distance
+0	2959.3023026033097	8869.63244560972	

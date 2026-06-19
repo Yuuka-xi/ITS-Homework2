@@ -1,0 +1,2 @@
+runId;iteration;vehicles;totalDistance;totalEmptyDistance;emptyRatio;totalPassengerDistanceTraveled;averageDrivenDistance;averageEmptyDistance;averagePassengerDistanceTraveled;d_p/d_t;l_det;minShareIdleVehicles;minCountIdleVehicles
+NA;0;200;39905133.17;2645395.24;0.07;85754658.49;199525.67;13226.98;428773.29;2.15;0.81;0.1;19.37
