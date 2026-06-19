@@ -1,0 +1,2 @@
+Iteration	drt_travel	drt_wait	stageActivity_travel	stageActivity_wait	walk_travel	walk_wait
+0	2474	1298	0	0	1018	0
