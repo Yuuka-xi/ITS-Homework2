@@ -1,11 +1,4 @@
 # AHP ranking for the new S1-S9 Cottbus DRT scenarios
-#
-# Workflow:
-# 1. Read the S1-S9 scenario summary.
-# 2. Plot one raw-result bar chart for each criterion.
-# 3. Build one pairwise comparison matrix for alternatives under each criterion.
-# 4. Use an all-ones criteria matrix, meaning all criteria are equally important.
-# 5. Compute final AHP scores and plot the ranking as a pie chart.
 
 assignment_dir <- "C:/Study/S2/ITS/ITS-Homework2/Assignment_2"
 base_dir <- file.path(assignment_dir, "Task3-Cottbus")
