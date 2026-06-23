@@ -1,2 +1,0 @@
-Iteration	drt	walk
-0	85034	3066

@@ -1,2 +1,0 @@
-runId;iteration;rides;wait_average;wait_max;wait_p95;wait_p75;wait_median;percentage_WT_below_10;percentage_WT_below_15;inVehicleTravelTime_mean;distance_m_mean;directDistance_m_mean;totalTravelTime_mean;fareAllReferences_mean;rejections;rejectionRate
-NA;0;10000;488.89;1266;1109;751;425;64.15;84.12;858.9;8463.19;4898.49;1347.79;2.19;0;0

@@ -1,2 +1,0 @@
-Iteration	drt
-0	1.0
